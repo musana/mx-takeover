@@ -247,7 +247,7 @@ func expireMXDomain(mx_domain, expire_date string, dmn []string) {
 	days_remain := int(diff.Hours() / 24)
 	len_dmn := len(dmn)
 	if days_remain < *expr_day {
-		color.Green("[+] %s will be expired after [%d] days. It being used by %d diffirent domain. Expire Time: [%s]. Domains that used by this mx:", mx_domain, days_remain, len_dmn, expire_date) // number of days
+		color.Green("[+] %s will be expired after [%d] days. It being used by %d different domain. Expire Time: [%s]. Domains that used by this mx:", mx_domain, days_remain, len_dmn, expire_date) // number of days
 		fmt.Println(dmn)
 	}
 }
