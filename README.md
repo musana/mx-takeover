@@ -89,7 +89,7 @@ musana.net | @musana
         Estimated days for expiration (default 30)
   -h    help
   -mailgun-api string
-        mailgun api for mx domain takeover automaticly
+        mailgun api for domain takeover automatically
   -output string
         Save output to file as json
   -show-only-mx
