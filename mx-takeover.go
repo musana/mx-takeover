@@ -41,7 +41,7 @@ var (
 )
 
 func init() {
-	mailgun_api = flag.String("mailgun-api", "", "mailgun api for mx domain takeover automaticly")
+	mailgun_api = flag.String("mailgun-api", "", "mailgun api for domain takeover automatically")
 	check_whois = flag.Bool("check-whois", false, "Check whois for detecting unregistered mx domain or will be expire soon")
 	expr_day = flag.Int("expire-day", 30, "Estimated days for expiration")
 	only_mx = flag.Bool("show-only-mx", false, "show only that have mx records")
