@@ -145,9 +145,11 @@ musana.net | @musana
 [*] End Time: 2022-05-23 15:15:24
 ```
 
-```json
+```bash
 ┌──(root㉿kali)-[/home/mx-takeover]
 └─# cat mx.json| jq .
+```
+```json
 {
   "google.com": [
     "_cisco-uds._tcp.wordcamp.org"
