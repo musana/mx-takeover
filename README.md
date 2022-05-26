@@ -36,9 +36,9 @@
 5. Attacker can now read mail that sent associated the domain. (\<something\>@sub.domain.com)
 
 **Limitation**  
-Mailgun uses mx records for mail sending, txt records for mail receiving and cname record for tracking. of these records only the DKIM record is unique and generated randomly. 
+Mailgun uses MX records for mail receiving, TXT records for mail sending and CNAME record for tracking. Of these records only the DKIM record is unique and generated randomly. 
 
-Therefore, can not be sent e-mails on behalf of someone else, but can be read e-mails sent by someone else to associated domain.
+Therefore, can not be sent mails on behalf of someone else, but can be read(receive) mails sent by someone else to associated domain.
 
 # Features
 
