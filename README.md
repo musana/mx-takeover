@@ -25,7 +25,7 @@
 
  
 # How to works
-### Attack Scenario  
+### Attack Scenario for Mailgun  
 1. Your company starts using a new service for emails.
 2. Your company's mx record points to mailgun. (eg: sub.domain.com MX mxa.mailgun.com)
 3. Your company stops using mailgun but does not remove the mx record from DNS
