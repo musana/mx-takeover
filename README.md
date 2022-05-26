@@ -125,7 +125,7 @@ musana.net | @musana
 
 ```bash
 ┌──(root㉿kali)-[/home/mx-takeover]
-└─# cat sdomain.txt| mx-takeover -check-whois -w 64 --output mx.json
+└─# cat sdomain.txt| mx-takeover -check-whois -w 64 -output mx.json
 
                      _        _
  _ __ ___ __  __    | |_ __ _| | _____  _____   _____ _ __
