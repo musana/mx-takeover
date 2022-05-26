@@ -108,14 +108,14 @@ musana.net | @musana
   <br>
 </h1>
 
-### Expiring Soon
+### Expiring Soon MX Domains
 
 <h1>
   <img src="img/m1.png" alt="expiring" width="700px"></a>
   <br>
 </h1>
 
-### Unregistered Domains
+### Unregistered MX Domains
 <h1>
   <img src="img/m2.png" alt="unregistered" width="700px"></a>
   <br>
