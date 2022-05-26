@@ -145,6 +145,8 @@ musana.net | @musana
 [*] End Time: 2022-05-23 15:15:24
 ```
 
+The keys are mx domains. The values are domain that used by specified domain in the key. 
+
 ```bash
 ┌──(root㉿kali)-[/home/mx-takeover]
 └─# cat mx.json| jq .
