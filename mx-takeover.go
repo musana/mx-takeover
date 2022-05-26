@@ -79,7 +79,7 @@ func main() {
 	}
 
 	if *check_whois == false {
-		color.Yellow("[!] Check-whois argument was not provided. It will not checked whois lookup aganist MX domains that found.")
+		color.Yellow("[!] Check-whois argument was not provided. It will not checked whois lookup against MX domains that found.")
 	}
 
 	len_url := len(urls)
@@ -202,7 +202,7 @@ func checkTakeover(domain, apiKey string) (mailgun.DomainResponse, error) {
 // find mx domain. (sub.mail.google.com -> google.com)
 func parseMXDomain(domain string, mxlist []string) {
 	for _, mxd := range mxlist {
-		// for parsing corretly added http:// schema.
+		// for parsing correctly added http:// schema.
 		u, _ := tld.Parse("http://" + mxd)
 		mx_domain := u.Domain + "." + u.TLD
 		mutex.Lock()
