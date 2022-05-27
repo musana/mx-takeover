@@ -142,7 +142,6 @@ musana.net | @musana
 [*] Scan Starting Time: 2022-05-23 15:15:22
 [!] Mailgun-api was not provided. You should register domain to mailgun manually
 [*] 141 domain will be scanned.
-[+] Possible Takeover Found! :: backup.acronis.com MX mxa.mailgun.org
 [*] Domains that expire in less than 30 days
 [*] Scan results was saved to mx.json
 [*] End Time: 2022-05-23 15:15:24
