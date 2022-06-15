@@ -184,3 +184,5 @@ The keys are mx domains. The values are domain that used by specified domain in 
 }
 
 ```
+
+**Important Uptade (15.06.2022):** Mailgun now requires DNS verification even only for mail receipts. About three week ago, this was working but vulnerability have fixed now by mailgun. When you sent mail before, it was sending successfully, but now you are getting "relaying denied" error. If you try send you will get "Remote Server returned '550 5.7.367 Remote server returned not permitted to relay -> 550 5.7.1 Relaying denied'" error. 
