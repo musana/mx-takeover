@@ -107,20 +107,20 @@ musana.net | @musana
 
 ### Takeover & Reclaim
 <h1>
-  <img src="img/m0.png" alt="reclaim" width="700px"></a>
+  <img src="img/m0.png" alt="reclaim" width="700px">
   <br>
 </h1>
 
 ### Expiring Soon MX Domains
 
 <h1>
-  <img src="img/m1.png" alt="expiring" width="700px"></a>
+  <img src="img/m1.png" alt="expiring" width="700px">
   <br>
 </h1>
 
 ### Unregistered MX Domains
 <h1>
-  <img src="img/m2.png" alt="unregistered" width="700px"></a>
+  <img src="img/m2.png" alt="unregistered" width="700px">
   <br>
 </h1>
 
