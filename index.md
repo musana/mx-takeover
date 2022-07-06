@@ -43,7 +43,7 @@ Therefore, can not be sent mails on behalf of someone else, but can be read(rece
 # Features
 
 <h1 align="center">
-  <img src="img/m0.png" alt="mx-takeover" width="700px"></a>
+  <img src="img/m0.png" alt="mx-takeover" width="700px">
   <br>
 </h1>
 
