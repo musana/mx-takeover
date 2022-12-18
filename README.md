@@ -124,6 +124,13 @@ musana.net | @musana
   <br>
 </h1>
 
+### Domains.txt
+Each domain in the text file must start with http:// or https://
+```bash
+https://google.com https://maximum.nl https://naver.jp https://slgnt.eu https://wordpress.net https://wordpress.org
+```
+
+
 ### Save Scan Result
 
 ```bash
