@@ -124,6 +124,11 @@ musana.net | @musana
   <br>
 </h1>
 
+
+> Text file must be line by line
+> Each domain in the text file must start with http:// or https://
+
+
 ### Save Scan Result
 
 ```bash
