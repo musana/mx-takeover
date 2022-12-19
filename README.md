@@ -125,7 +125,7 @@ musana.net | @musana
 </h1>
 
 
-> Text file must be line by line
+> Text file must be line by line  
 > Each domain in the text file must start with http:// or https://
 
 
